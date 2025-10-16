@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>RSS Backup</title>
-    <dateCreated>Wed, 15 Oct 2025 04:00:26 GMT</dateCreated>
+    <dateCreated>Thu, 16 Oct 2025 04:00:26 GMT</dateCreated>
   </head>
   <body>
     <outline text="AI" title="AI">
@@ -63,7 +63,7 @@
       <outline type="rss" text="Короче, капитан – Запускаем мини-приложения - Telegram Channel" title="Короче, капитан – Запускаем мини-приложения - Telegram Channel" xmlUrl="https://rsshub.proto.by//telegram/channel/its_capitan" htmlUrl="https://t.me/s/its_capitan"/>
       <outline type="rss" text="Твой пет проект - Telegram Channel" title="Твой пет проект - Telegram Channel" xmlUrl="https://rsshub.proto.by//telegram/channel/your_pet_project" htmlUrl="https://t.me/s/your_pet_project"/>
       <outline type="rss" text="Indielab: инди-хакинг тут - Telegram Channel" title="Indielab: инди-хакинг тут - Telegram Channel" xmlUrl="https://rsshub.proto.by//telegram/channel/indielab_tut" htmlUrl="https://t.me/s/indielab_tut"/>
-      <outline type="rss" text="Open Source" title="Open Source" xmlUrl="https://rsshub.proto.by//telegram/channel/open_source_friend" htmlUrl="https://t.me/open_source_friend"/>
+      <outline type="rss" text="Open Source - Telegram Channel" title="Open Source - Telegram Channel" xmlUrl="https://rsshub.proto.by//telegram/channel/open_source_friend" htmlUrl="https://t.me/s/open_source_friend"/>
     </outline>
     <outline text="other" title="other">
       <outline type="rss" text="ТОПЛЕС - YouTube" title="ТОПЛЕС - YouTube" xmlUrl="https://rsshub.proto.by//youtube/user/toplesofficial" htmlUrl="https://www.youtube.com/channel/UC2Ru64PHqW4FxoP0xhQRvJg"/>
@@ -88,6 +88,7 @@
       <outline type="rss" text="Evil Martians - Telegram Channel" title="Evil Martians - Telegram Channel" xmlUrl="https://rsshub.proto.by//telegram/channel/evilmartians" htmlUrl="https://t.me/s/evilmartians"/>
     </outline>
     <outline text="people" title="people">
+      <outline type="rss" text="Рассылка Макса Черепицы" title="Рассылка Макса Черепицы" xmlUrl="https://rsshub.proto.by//substack/subscribe/maxcherepitsa" htmlUrl="https://maxcherepitsa.substack.com/"/>
       <outline type="rss" text="dobry - Telegram Channel" title="dobry - Telegram Channel" xmlUrl="https://rsshub.proto.by//telegram/channel/dobry" htmlUrl="https://t.me/s/dobry"/>
       <outline type="rss" text="EDU - Telegram Channel" title="EDU - Telegram Channel" xmlUrl="https://rsshub.proto.by//telegram/channel/ProductsAndStartups" htmlUrl="https://t.me/s/ProductsAndStartups"/>
       <outline type="rss" text="Познавательная минутка от Курышева - Telegram Channel" title="Познавательная минутка от Курышева - Telegram Channel" xmlUrl="https://rsshub.proto.by//telegram/channel/tasteofrain" htmlUrl="https://t.me/s/tasteofrain"/>
