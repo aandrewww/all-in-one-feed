@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>RSS Backup</title>
-    <dateCreated>Sat, 15 Nov 2025 04:00:25 GMT</dateCreated>
+    <dateCreated>Sun, 16 Nov 2025 04:00:25 GMT</dateCreated>
   </head>
   <body>
     <outline text="AI" title="AI">
@@ -29,7 +29,7 @@
     </outline>
     <outline text="finance" title="finance">
       <outline type="rss" text="PROBUSINESS.IO: Про бизнес" title="PROBUSINESS.IO: Про бизнес" xmlUrl="https://probusiness.io/rss/all.rss" htmlUrl="https://probusiness.io/"/>
-      <outline type="rss" text="FinanceGramm - YouTube" title="FinanceGramm - YouTube" xmlUrl="https://rsshub.proto.by//youtube/user/@FinanceGramm" htmlUrl="https://www.youtube.com/@FinanceGramm"/>
+      <outline type="rss" text="FinanceGramm - YouTube" title="FinanceGramm - YouTube" xmlUrl="https://rsshub.proto.by//youtube/user/@FinanceGramm" htmlUrl="https://www.youtube.com/channel/UCQORAl8GIwxQwAPm11RRN_A"/>
       <outline type="rss" text="RationalAnswer | Павел Комаровский - Telegram Channel" title="RationalAnswer | Павел Комаровский - Telegram Channel" xmlUrl="https://rsshub.proto.by//telegram/channel/RationalAnswer" htmlUrl="https://t.me/s/RationalAnswer"/>
     </outline>
     <outline text="igaming" title="igaming">
@@ -145,7 +145,7 @@
       <outline type="rss" text="Hussein Nasser - YouTube" title="Hussein Nasser - YouTube" xmlUrl="https://rsshub.proto.by//youtube/user/@hnasr" htmlUrl="https://www.youtube.com/channel/UC_ML5xP23TOWKUcc-oAE_Eg"/>
       <outline type="rss" text="Syntax - YouTube" title="Syntax - YouTube" xmlUrl="https://rsshub.proto.by//youtube/user/@syntaxfm" htmlUrl="https://www.youtube.com/channel/UCyU5wkjgQYGRB0hIHMwm2Sg"/>
       <outline type="rss" text="the roadmap - YouTube" title="the roadmap - YouTube" xmlUrl="https://rsshub.proto.by//youtube/user/@roadmapsh" htmlUrl="https://www.youtube.com/channel/UCA0H2KIWgWTwpTFjSxp0now"/>
-      <outline type="rss" text="Ulbi TV - YouTube" title="Ulbi TV - YouTube" xmlUrl="https://rsshub.proto.by//youtube/user/@UlbiTV" htmlUrl="https://www.youtube.com/@UlbiTV"/>
+      <outline type="rss" text="Ulbi TV - YouTube" title="Ulbi TV - YouTube" xmlUrl="https://rsshub.proto.by//youtube/user/@UlbiTV" htmlUrl="https://www.youtube.com/channel/UCDzGdB9TTgFm8jRXn1tBdoA"/>
       <outline type="rss" text="Winderton - YouTube" title="Winderton - YouTube" xmlUrl="https://rsshub.proto.by//youtube/user/@wndtn" htmlUrl="https://www.youtube.com/channel/UC4omkhNHsYLagT1o6hnmKQw"/>
       <outline type="rss" text="Traversy Media - YouTube" title="Traversy Media - YouTube" xmlUrl="https://rsshub.proto.by//youtube/user/@TraversyMedia" htmlUrl="https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA"/>
       <outline type="rss" text="ExtremeCode - YouTube" title="ExtremeCode - YouTube" xmlUrl="https://rsshub.proto.by//youtube/user/@ExtremeCode" htmlUrl="https://www.youtube.com/channel/UCBNlINWfd08qgDkUTaUY4_w"/>
