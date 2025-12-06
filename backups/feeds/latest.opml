@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>RSS Backup</title>
-    <dateCreated>Fri, 05 Dec 2025 04:00:26 GMT</dateCreated>
+    <dateCreated>Sat, 06 Dec 2025 04:00:25 GMT</dateCreated>
   </head>
   <body>
     <outline text="AI" title="AI">
@@ -176,7 +176,7 @@
     </outline>
     <outline text="sport" title="sport">
       <outline type="rss" text="We Are The Arsenal | Арсенал - Telegram Channel" title="We Are The Arsenal | Арсенал - Telegram Channel" xmlUrl="https://rsshub.proto.by//telegram/channel/wearethearsenal" htmlUrl="https://t.me/s/wearethearsenal"/>
-      <outline type="rss" text="Лига Тенниса Минск • Finals - Telegram Channel" title="Лига Тенниса Минск • Finals - Telegram Channel" xmlUrl="https://rsshub.proto.by//telegram/channel/ligatennisa" htmlUrl="https://t.me/s/ligatennisa"/>
+      <outline type="rss" text="Лига Тенниса • Итоговые - Telegram Channel" title="Лига Тенниса • Итоговые - Telegram Channel" xmlUrl="https://rsshub.proto.by//telegram/channel/ligatennisa" htmlUrl="https://t.me/s/ligatennisa"/>
       <outline type="rss" text="Лекс - Telegram Channel" title="Лекс - Telegram Channel" xmlUrl="https://rsshub.proto.by//telegram/channel/lexusarsenal" htmlUrl="https://t.me/s/lexusarsenal"/>
     </outline>
     <outline text="tech" title="tech">
