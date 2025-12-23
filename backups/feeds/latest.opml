@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>RSS Backup</title>
-    <dateCreated>Mon, 22 Dec 2025 04:00:25 GMT</dateCreated>
+    <dateCreated>Tue, 23 Dec 2025 04:00:25 GMT</dateCreated>
   </head>
   <body>
     <outline text="AI" title="AI">
@@ -43,7 +43,7 @@
       <outline type="rss" text="The Diary Of A CEO - YouTube" title="The Diary Of A CEO - YouTube" xmlUrl="https://rsshub.proto.by//youtube/user/@TheDiaryOfACEO" htmlUrl="https://www.youtube.com/channel/UCGq-a57w-aPwyi3pW7XLiHw"/>
       <outline type="rss" text="Team Lead Talks - YouTube" title="Team Lead Talks - YouTube" xmlUrl="https://rsshub.proto.by//youtube/user/@TeamLeadTalks" htmlUrl="https://www.youtube.com/channel/UCcnRxBHN_TXnOdzTZe8IzIg"/>
       <outline type="rss" text="Уставший техдир - Telegram Channel" title="Уставший техдир - Telegram Channel" xmlUrl="https://rsshub.proto.by//telegram/channel/tired_glebmikheev" htmlUrl="https://t.me/s/tired_glebmikheev"/>
-      <outline type="rss" text="Лидерская позиция | Шапенко - Telegram Channel" title="Лидерская позиция | Шапенко - Telegram Channel" xmlUrl="https://rsshub.proto.by//telegram/channel/leadership_position" htmlUrl="https://t.me/s/leadership_position"/>
+      <outline type="rss" text="Лидерская позиция | ШАПЕНКО - Telegram Channel" title="Лидерская позиция | ШАПЕНКО - Telegram Channel" xmlUrl="https://rsshub.proto.by//telegram/channel/leadership_position" htmlUrl="https://t.me/s/leadership_position"/>
     </outline>
     <outline text="management" title="management">
       <outline type="rss" text="Management Channel - YouTube" title="Management Channel - YouTube" xmlUrl="https://rsshub.proto.by//youtube/user/@ManagementChannel" htmlUrl="https://www.youtube.com/channel/UCCLC8dta4gbG9aCM5ynRIrw"/>
