@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>RSS Backup</title>
-    <dateCreated>Tue, 23 Dec 2025 04:00:25 GMT</dateCreated>
+    <dateCreated>Wed, 24 Dec 2025 04:00:25 GMT</dateCreated>
   </head>
   <body>
     <outline text="AI" title="AI">
@@ -88,6 +88,7 @@
       <outline type="rss" text="Evil Martians - Telegram Channel" title="Evil Martians - Telegram Channel" xmlUrl="https://rsshub.proto.by//telegram/channel/evilmartians" htmlUrl="https://t.me/s/evilmartians"/>
     </outline>
     <outline text="people" title="people">
+      <outline type="rss" text="Макс Черепица - Telegram Channel" title="Макс Черепица - Telegram Channel" xmlUrl="https://rsshub.proto.by//telegram/channel/maxchrpts" htmlUrl="https://t.me/s/maxchrpts"/>
       <outline type="rss" text="Рассылка Макса Черепицы" title="Рассылка Макса Черепицы" xmlUrl="https://rsshub.proto.by//substack/subscribe/maxcherepitsa" htmlUrl="https://maxcherepitsa.substack.com/"/>
       <outline type="rss" text="Алексей Королюк - Telegram Channel" title="Алексей Королюк - Telegram Channel" xmlUrl="https://rsshub.proto.by//telegram/channel/KorolyukAlexey" htmlUrl="https://t.me/s/KorolyukAlexey"/>
       <outline type="rss" text="dobry - Telegram Channel" title="dobry - Telegram Channel" xmlUrl="https://rsshub.proto.by//telegram/channel/dobry" htmlUrl="https://t.me/s/dobry"/>
