@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>RSS Backup</title>
-    <dateCreated>Sun, 28 Dec 2025 04:00:25 GMT</dateCreated>
+    <dateCreated>Mon, 29 Dec 2025 04:00:25 GMT</dateCreated>
   </head>
   <body>
     <outline text="AI" title="AI">
@@ -220,6 +220,9 @@
       <outline type="rss" text="Bad Planet Documentaries - YouTube" title="Bad Planet Documentaries - YouTube" xmlUrl="https://rsshub.proto.by//youtube/user/@bad.planet" htmlUrl="https://www.youtube.com/channel/UCNjL5usitFtya-n2R485VoQ"/>
       <outline type="rss" text="Travelhacks — путешествия, лайфхаки - Telegram Channel" title="Travelhacks — путешествия, лайфхаки - Telegram Channel" xmlUrl="https://rsshub.proto.by//telegram/channel/travelhacks" htmlUrl="https://t.me/s/travelhacks"/>
       <outline type="rss" text="34travel - Telegram Channel" title="34travel - Telegram Channel" xmlUrl="https://rsshub.proto.by//telegram/channel/travel34" htmlUrl="https://t.me/s/travel34"/>
+    </outline>
+    <outline text="uncategorized" title="uncategorized">
+      <outline type="rss" text="Ivan Chernyakov - YouTube" title="Ivan Chernyakov - YouTube" xmlUrl="https://rsshub.proto.by//youtube/user/@icherniakov" htmlUrl="https://www.youtube.com/channel/UCaukwNoTfV9mfVMgoQQPj7A"/>
     </outline>
   </body>
 </opml>
