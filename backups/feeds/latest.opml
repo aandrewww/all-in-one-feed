@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>RSS Backup</title>
-    <dateCreated>Fri, 02 Jan 2026 04:00:25 GMT</dateCreated>
+    <dateCreated>Sat, 03 Jan 2026 04:00:25 GMT</dateCreated>
   </head>
   <body>
     <outline text="AI" title="AI">
@@ -63,7 +63,7 @@
       <outline type="rss" text="Короче, капитан – Запускаем мини-приложения - Telegram Channel" title="Короче, капитан – Запускаем мини-приложения - Telegram Channel" xmlUrl="https://rsshub.proto.by//telegram/channel/its_capitan" htmlUrl="https://t.me/s/its_capitan"/>
       <outline type="rss" text="Твой пет проект - Telegram Channel" title="Твой пет проект - Telegram Channel" xmlUrl="https://rsshub.proto.by//telegram/channel/your_pet_project" htmlUrl="https://t.me/s/your_pet_project"/>
       <outline type="rss" text="Indielab: инди-хакинг тут - Telegram Channel" title="Indielab: инди-хакинг тут - Telegram Channel" xmlUrl="https://rsshub.proto.by//telegram/channel/indielab_tut" htmlUrl="https://t.me/s/indielab_tut"/>
-      <outline type="rss" text="Open Source" title="Open Source" xmlUrl="https://rsshub.proto.by//telegram/channel/open_source_friend" htmlUrl="https://t.me/open_source_friend"/>
+      <outline type="rss" text="Open Source - Telegram Channel" title="Open Source - Telegram Channel" xmlUrl="https://rsshub.proto.by//telegram/channel/open_source_friend" htmlUrl="https://t.me/s/open_source_friend"/>
     </outline>
     <outline text="other" title="other">
       <outline type="rss" text="ТОПЛЕС - YouTube" title="ТОПЛЕС - YouTube" xmlUrl="https://rsshub.proto.by//youtube/user/toplesofficial" htmlUrl="https://www.youtube.com/channel/UC2Ru64PHqW4FxoP0xhQRvJg"/>
