@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>RSS Backup</title>
-    <dateCreated>Sun, 08 Feb 2026 04:00:25 GMT</dateCreated>
+    <dateCreated>Mon, 09 Feb 2026 04:00:25 GMT</dateCreated>
   </head>
   <body>
     <outline text="AI" title="AI">
@@ -41,7 +41,7 @@
 			A List Apart: The Full Feed		" xmlUrl="https://alistapart.com/main/feed/" htmlUrl="https://alistapart.com/"/>
       <outline type="rss" text="TellMeAboutTech - YouTube" title="TellMeAboutTech - YouTube" xmlUrl="https://rsshub.proto.by//youtube/user/@TellMeAboutTech" htmlUrl="https://www.youtube.com/channel/UCR8cNE9Qyz2ZgpfFQrKZ8UQ"/>
       <outline type="rss" text="The Diary Of A CEO - YouTube" title="The Diary Of A CEO - YouTube" xmlUrl="https://rsshub.proto.by//youtube/user/@TheDiaryOfACEO" htmlUrl="https://www.youtube.com/channel/UCGq-a57w-aPwyi3pW7XLiHw"/>
-      <outline type="rss" text="Team Lead Talks - YouTube" title="Team Lead Talks - YouTube" xmlUrl="https://rsshub.proto.by//youtube/user/@TeamLeadTalks" htmlUrl="https://www.youtube.com/@TeamLeadTalks"/>
+      <outline type="rss" text="Team Lead Talks - YouTube" title="Team Lead Talks - YouTube" xmlUrl="https://rsshub.proto.by//youtube/user/@TeamLeadTalks" htmlUrl="https://www.youtube.com/channel/UCcnRxBHN_TXnOdzTZe8IzIg"/>
       <outline type="rss" text="Уставший техдир - Telegram Channel" title="Уставший техдир - Telegram Channel" xmlUrl="https://rsshub.proto.by//telegram/channel/tired_glebmikheev" htmlUrl="https://t.me/s/tired_glebmikheev"/>
       <outline type="rss" text="Лидерская позиция - Telegram Channel" title="Лидерская позиция - Telegram Channel" xmlUrl="https://rsshub.proto.by//telegram/channel/leadership_position" htmlUrl="https://t.me/s/leadership_position"/>
     </outline>
@@ -212,7 +212,7 @@
       <outline type="rss" text="Антон Конобиевский - YouTube" title="Антон Конобиевский - YouTube" xmlUrl="https://rsshub.proto.by//youtube/user/@Go_Tony" htmlUrl="https://www.youtube.com/channel/UCJRcwXWmGeEfdmjZ01L8bWg"/>
       <outline type="rss" text="Denis Rategov - YouTube" title="Denis Rategov - YouTube" xmlUrl="https://rsshub.proto.by//youtube/user/@Rategov" htmlUrl="https://www.youtube.com/channel/UC7K8JX1Iqo17vjoLMXLO2qw"/>
       <outline type="rss" text="Территория Приключений - YouTube" title="Территория Приключений - YouTube" xmlUrl="https://rsshub.proto.by//youtube/user/@adventure_territory" htmlUrl="https://www.youtube.com/channel/UCAI63ku3KNIx9Uskw4i23Yw"/>
-      <outline type="rss" text="Ilia Bondarev - YouTube" title="Ilia Bondarev - YouTube" xmlUrl="https://rsshub.proto.by//youtube/user/@ilia" htmlUrl="https://www.youtube.com/@ilia"/>
+      <outline type="rss" text="Ilia Bondarev - YouTube" title="Ilia Bondarev - YouTube" xmlUrl="https://rsshub.proto.by//youtube/user/@ilia" htmlUrl="https://www.youtube.com/channel/UCtrmW6hFYWt2cevdanrIVvg"/>
       <outline type="rss" text="kamerzanov - YouTube" title="kamerzanov - YouTube" xmlUrl="https://rsshub.proto.by//youtube/user/@kamerzanov" htmlUrl="https://www.youtube.com/channel/UC3p9sxyTekn3UoI0keyG_ew"/>
       <outline type="rss" text="ВОЛЬНОМУ - ВОЛЯ! - YouTube" title="ВОЛЬНОМУ - ВОЛЯ! - YouTube" xmlUrl="https://rsshub.proto.by//youtube/user/@OlegPrikhodko" htmlUrl="https://www.youtube.com/channel/UCcgTo1grFem37WQAi8QoRxw"/>
       <outline type="rss" text="The Life of Others - YouTube" title="The Life of Others - YouTube" xmlUrl="https://rsshub.proto.by//youtube/user/@the_life_of_others" htmlUrl="https://www.youtube.com/channel/UCFGe3bs70DY3bpENODw3Ftg"/>
