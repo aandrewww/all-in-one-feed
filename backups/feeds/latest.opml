@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>RSS Backup</title>
-    <dateCreated>Thu, 12 Feb 2026 04:00:25 GMT</dateCreated>
+    <dateCreated>Fri, 13 Feb 2026 04:00:25 GMT</dateCreated>
   </head>
   <body>
     <outline text="AI" title="AI">
@@ -121,7 +121,7 @@
       <outline type="rss" text="Никита Ульшин про IT - Telegram Channel" title="Никита Ульшин про IT - Telegram Channel" xmlUrl="https://rsshub.proto.by//telegram/channel/ulshinblog" htmlUrl="https://t.me/s/ulshinblog"/>
       <outline type="rss" text="Миша Ларченко – о программировании и не только - Telegram Channel" title="Миша Ларченко – о программировании и не только - Telegram Channel" xmlUrl="https://rsshub.proto.by//telegram/channel/larchanka" htmlUrl="https://t.me/s/larchanka"/>
       <outline type="rss" text="Максим Дорофеев: джедайские техники и прокрастинация - Telegram Channel" title="Максим Дорофеев: джедайские техники и прокрастинация - Telegram Channel" xmlUrl="https://rsshub.proto.by//telegram/channel/mnogosdelal" htmlUrl="https://t.me/s/mnogosdelal"/>
-      <outline type="rss" text="Макс Рыжков познаёт Мир - Telegram Channel" title="Макс Рыжков познаёт Мир - Telegram Channel" xmlUrl="https://rsshub.proto.by//telegram/channel/ryzhkovich" htmlUrl="https://t.me/s/ryzhkovich"/>
+      <outline type="rss" text="Макс Рыжков познаёт - Telegram Channel" title="Макс Рыжков познаёт - Telegram Channel" xmlUrl="https://rsshub.proto.by//telegram/channel/ryzhkovich" htmlUrl="https://t.me/s/ryzhkovich"/>
       <outline type="rss" text="Иван Акулов про разработку - Telegram Channel" title="Иван Акулов про разработку - Telegram Channel" xmlUrl="https://rsshub.proto.by//telegram/channel/iamakulov_channel" htmlUrl="https://t.me/s/iamakulov_channel"/>
       <outline type="rss" text="Боря программирует - Telegram Channel" title="Боря программирует - Telegram Channel" xmlUrl="https://rsshub.proto.by//telegram/channel/bminaiev_blog" htmlUrl="https://t.me/s/bminaiev_blog"/>
       <outline type="rss" text="🧠 Руслан учится - Telegram Channel" title="🧠 Руслан учится - Telegram Channel" xmlUrl="https://rsshub.proto.by//telegram/channel/ruslanlearns" htmlUrl="https://t.me/s/ruslanlearns"/>
@@ -140,7 +140,7 @@
       <outline type="rss" text="Миша Ларченко - YouTube" title="Миша Ларченко - YouTube" xmlUrl="https://rsshub.proto.by//youtube/user/@larchanka" htmlUrl="https://www.youtube.com/channel/UC7vgoI5o3Eik81K6nwd1_eQ"/>
       <outline type="rss" text="CSS-Tricks" title="CSS-Tricks" xmlUrl="https://feeds.feedburner.com/CssTricks" htmlUrl="https://css-tricks.com/"/>
       <outline type="rss" text="JavaScript Weekly" title="JavaScript Weekly" xmlUrl="https://cprss.s3.amazonaws.com/javascriptweekly.com.xml" htmlUrl="https://javascriptweekly.com/"/>
-      <outline type="rss" text="Fireship - YouTube" title="Fireship - YouTube" xmlUrl="https://rsshub.proto.by//youtube/user/@Fireship" htmlUrl="https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA"/>
+      <outline type="rss" text="Fireship - YouTube" title="Fireship - YouTube" xmlUrl="https://rsshub.proto.by//youtube/user/@Fireship" htmlUrl="https://www.youtube.com/@Fireship"/>
       <outline type="rss" text="Yugo - YouTube" title="Yugo - YouTube" xmlUrl="https://rsshub.proto.by//youtube/user/@cyber-yugo" htmlUrl="https://www.youtube.com/channel/UC2MY99L4GhHzXnObbLi3IXQ"/>
       <outline type="rss" text="Хауди Хо™ - Просто о мире IT! - YouTube" title="Хауди Хо™ - Просто о мире IT! - YouTube" xmlUrl="https://rsshub.proto.by//youtube/user/@HowdyhoNet" htmlUrl="https://www.youtube.com/channel/UC7f5bVxWsm3jlZIPDzOMcAg"/>
       <outline type="rss" text="Alek OS - YouTube" title="Alek OS - YouTube" xmlUrl="https://rsshub.proto.by//youtube/user/@AlekOS" htmlUrl="https://www.youtube.com/channel/UCIn6hza5Ai119FJnLMJzECQ"/>
