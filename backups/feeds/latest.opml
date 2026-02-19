@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>RSS Backup</title>
-    <dateCreated>Wed, 18 Feb 2026 04:00:25 GMT</dateCreated>
+    <dateCreated>Thu, 19 Feb 2026 04:00:26 GMT</dateCreated>
   </head>
   <body>
     <outline text="AI" title="AI">
@@ -68,7 +68,7 @@
     <outline text="other" title="other">
       <outline type="rss" text="ТОПЛЕС - YouTube" title="ТОПЛЕС - YouTube" xmlUrl="https://rsshub.proto.by//youtube/user/toplesofficial" htmlUrl="https://www.youtube.com/channel/UC2Ru64PHqW4FxoP0xhQRvJg"/>
       <outline type="rss" text="Dagon - YouTube" title="Dagon - YouTube" xmlUrl="https://rsshub.proto.by//youtube/user/@Dagon_channel" htmlUrl="https://www.youtube.com/channel/UCP_FacffygRMGA4CMpO-0XA"/>
-      <outline type="rss" text="Ваня Продюсер - YouTube" title="Ваня Продюсер - YouTube" xmlUrl="https://rsshub.proto.by//youtube/user/@Vanyaproducer" htmlUrl="https://www.youtube.com/channel/UCNbLyoQo0fYEBmeIdHrV5Rw"/>
+      <outline type="rss" text="Ваня Продюсер - YouTube" title="Ваня Продюсер - YouTube" xmlUrl="https://rsshub.proto.by//youtube/user/@Vanyaproducer" htmlUrl="https://www.youtube.com/@Vanyaproducer"/>
       <outline type="rss" text="Асафьев Стас - YouTube" title="Асафьев Стас - YouTube" xmlUrl="https://rsshub.proto.by//youtube/user/@AsafevStas" htmlUrl="https://www.youtube.com/channel/UCr2EXJtFMunvG0CmYE3Tj8A"/>
       <outline type="rss" text="Левое полушарие Экстраверта - YouTube" title="Левое полушарие Экстраверта - YouTube" xmlUrl="https://rsshub.proto.by//youtube/user/@artforextravert" htmlUrl="https://www.youtube.com/channel/UCSQDMhbDLfvvqlRj2AEXdwQ"/>
       <outline type="rss" text="WTFакт - YouTube" title="WTFакт - YouTube" xmlUrl="https://rsshub.proto.by//youtube/user/@WTFakt" htmlUrl="https://www.youtube.com/channel/UCkZivHrFdFIljKFbAG_pNbQ"/>
