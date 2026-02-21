@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>RSS Backup</title>
-    <dateCreated>Fri, 20 Feb 2026 04:00:25 GMT</dateCreated>
+    <dateCreated>Sat, 21 Feb 2026 04:00:25 GMT</dateCreated>
   </head>
   <body>
     <outline text="AI" title="AI">
@@ -63,7 +63,7 @@
       <outline type="rss" text="Короче, капитан – Запускаем мини-приложения - Telegram Channel" title="Короче, капитан – Запускаем мини-приложения - Telegram Channel" xmlUrl="https://rsshub.proto.by//telegram/channel/its_capitan" htmlUrl="https://t.me/s/its_capitan"/>
       <outline type="rss" text="Твой пет проект - Telegram Channel" title="Твой пет проект - Telegram Channel" xmlUrl="https://rsshub.proto.by//telegram/channel/your_pet_project" htmlUrl="https://t.me/s/your_pet_project"/>
       <outline type="rss" text="Indielab: инди-хакинг тут - Telegram Channel" title="Indielab: инди-хакинг тут - Telegram Channel" xmlUrl="https://rsshub.proto.by//telegram/channel/indielab_tut" htmlUrl="https://t.me/s/indielab_tut"/>
-      <outline type="rss" text="Open Source - Telegram Channel" title="Open Source - Telegram Channel" xmlUrl="https://rsshub.proto.by//telegram/channel/open_source_friend" htmlUrl="https://t.me/s/open_source_friend"/>
+      <outline type="rss" text="Open Source" title="Open Source" xmlUrl="https://rsshub.proto.by//telegram/channel/open_source_friend" htmlUrl="https://t.me/open_source_friend"/>
     </outline>
     <outline text="other" title="other">
       <outline type="rss" text="ТОПЛЕС - YouTube" title="ТОПЛЕС - YouTube" xmlUrl="https://rsshub.proto.by//youtube/user/toplesofficial" htmlUrl="https://www.youtube.com/channel/UC2Ru64PHqW4FxoP0xhQRvJg"/>
@@ -105,7 +105,7 @@
       <outline type="rss" text="Глеб Соломин - YouTube" title="Глеб Соломин - YouTube" xmlUrl="https://rsshub.proto.by//youtube/user/@glebsolomin" htmlUrl="https://www.youtube.com/channel/UC1bFQRZLgbShAkKGY0UMrWQ"/>
       <outline type="rss" text="Основатели. Doc - YouTube" title="Основатели. Doc - YouTube" xmlUrl="https://rsshub.proto.by//youtube/user/@osnovatelidoc" htmlUrl="https://www.youtube.com/channel/UC0xr8gzub6WQe_TMjW7scdg"/>
       <outline type="rss" text="Это Осетинская! - YouTube" title="Это Осетинская! - YouTube" xmlUrl="https://rsshub.proto.by//youtube/user/@Osetinskaia" htmlUrl="https://www.youtube.com/channel/UCo3S9OQDrM79i7yPmixnSsQ"/>
-      <outline type="rss" text="Послезавтра - YouTube" title="Послезавтра - YouTube" xmlUrl="https://rsshub.proto.by//youtube/user/@posle_zavtra" htmlUrl="https://www.youtube.com/channel/UC9Rc75wIi4wh5Ir4Th8Di_g"/>
+      <outline type="rss" text="Послезавтра - YouTube" title="Послезавтра - YouTube" xmlUrl="https://rsshub.proto.by//youtube/user/@posle_zavtra" htmlUrl="https://www.youtube.com/@posle_zavtra"/>
       <outline type="rss" text="Группа Компаний ЭФКО - YouTube" title="Группа Компаний ЭФКО - YouTube" xmlUrl="https://rsshub.proto.by//youtube/user/@efko_group" htmlUrl="https://www.youtube.com/channel/UC9Mw_dAKrAo1pHvXncEXjLg"/>
       <outline type="rss" text="Миша Токовинин - YouTube" title="Миша Токовинин - YouTube" xmlUrl="https://rsshub.proto.by//youtube/user/@mtokovinin" htmlUrl="https://www.youtube.com/channel/UCd7kvW9oxUA32tq2iNGiTEg"/>
       <outline type="rss" text="Мы обречены - YouTube" title="Мы обречены - YouTube" xmlUrl="https://rsshub.proto.by//youtube/user/@myobrecheny" htmlUrl="https://www.youtube.com/channel/UCUSbYJK87rpBUJ5KGQd7oHA"/>
@@ -144,7 +144,7 @@
       <outline type="rss" text="Yugo - YouTube" title="Yugo - YouTube" xmlUrl="https://rsshub.proto.by//youtube/user/@cyber-yugo" htmlUrl="https://www.youtube.com/channel/UC2MY99L4GhHzXnObbLi3IXQ"/>
       <outline type="rss" text="Хауди Хо™ - Просто о мире IT! - YouTube" title="Хауди Хо™ - Просто о мире IT! - YouTube" xmlUrl="https://rsshub.proto.by//youtube/user/@HowdyhoNet" htmlUrl="https://www.youtube.com/channel/UC7f5bVxWsm3jlZIPDzOMcAg"/>
       <outline type="rss" text="Alek OS - YouTube" title="Alek OS - YouTube" xmlUrl="https://rsshub.proto.by//youtube/user/@AlekOS" htmlUrl="https://www.youtube.com/channel/UCIn6hza5Ai119FJnLMJzECQ"/>
-      <outline type="rss" text="Hussein Nasser - YouTube" title="Hussein Nasser - YouTube" xmlUrl="https://rsshub.proto.by//youtube/user/@hnasr" htmlUrl="https://www.youtube.com/channel/UC_ML5xP23TOWKUcc-oAE_Eg"/>
+      <outline type="rss" text="Hussein Nasser - YouTube" title="Hussein Nasser - YouTube" xmlUrl="https://rsshub.proto.by//youtube/user/@hnasr" htmlUrl="https://www.youtube.com/@hnasr"/>
       <outline type="rss" text="Syntax - YouTube" title="Syntax - YouTube" xmlUrl="https://rsshub.proto.by//youtube/user/@syntaxfm" htmlUrl="https://www.youtube.com/channel/UCyU5wkjgQYGRB0hIHMwm2Sg"/>
       <outline type="rss" text="the roadmap - YouTube" title="the roadmap - YouTube" xmlUrl="https://rsshub.proto.by//youtube/user/@roadmapsh" htmlUrl="https://www.youtube.com/channel/UCA0H2KIWgWTwpTFjSxp0now"/>
       <outline type="rss" text="Ulbi TV - YouTube" title="Ulbi TV - YouTube" xmlUrl="https://rsshub.proto.by//youtube/user/@UlbiTV" htmlUrl="https://www.youtube.com/channel/UCDzGdB9TTgFm8jRXn1tBdoA"/>
@@ -167,7 +167,7 @@
     </outline>
     <outline text="self" title="self">
       <outline type="rss" text="James Clear - 3-2-1 Newsletter" title="James Clear - 3-2-1 Newsletter" xmlUrl="https://rsshub.proto.by//jamesclear/3-2-1" htmlUrl="https://jamesclear.com/3-2-1"/>
-      <outline type="rss" text="KRAMARTY TV - Мэтт Д&apos;Авелла на русском - YouTube" title="KRAMARTY TV - Мэтт Д&apos;Авелла на русском - YouTube" xmlUrl="https://rsshub.proto.by//youtube/user/@KRAMARTYTV" htmlUrl="https://www.youtube.com/channel/UCjhb062dWjsJdUaE7IDrGzw"/>
+      <outline type="rss" text="KRAMARTY TV - Мэтт Д&apos;Авелла на русском - YouTube" title="KRAMARTY TV - Мэтт Д&apos;Авелла на русском - YouTube" xmlUrl="https://rsshub.proto.by//youtube/user/@KRAMARTYTV" htmlUrl="https://www.youtube.com/@KRAMARTYTV"/>
       <outline type="rss" text="The School of Life - YouTube" title="The School of Life - YouTube" xmlUrl="https://rsshub.proto.by//youtube/user/@theschooloflifetv" htmlUrl="https://www.youtube.com/channel/UC7IcJI8PUf5Z3zKxnZvTBog"/>
       <outline type="rss" text="Matt Ragland - YouTube" title="Matt Ragland - YouTube" xmlUrl="https://rsshub.proto.by//youtube/user/@MattRagland" htmlUrl="https://www.youtube.com/channel/UCLH7F4dM2fNtxy_Hr1Gtq0Q"/>
       <outline type="rss" text="Matt D&apos;Avella - YouTube" title="Matt D&apos;Avella - YouTube" xmlUrl="https://rsshub.proto.by//youtube/user/@mattdavella" htmlUrl="https://www.youtube.com/channel/UCJ24N4O0bP7LGLBDvye7oCA"/>
