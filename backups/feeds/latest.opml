@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>RSS Backup</title>
-    <dateCreated>Sat, 28 Feb 2026 04:00:29 GMT</dateCreated>
+    <dateCreated>Sun, 01 Mar 2026 04:00:25 GMT</dateCreated>
   </head>
   <body>
     <outline text="AI" title="AI">
@@ -135,6 +135,7 @@
       <outline type="rss" text="Qetzal ad libitum, ad infinitum - Telegram Channel" title="Qetzal ad libitum, ad infinitum - Telegram Channel" xmlUrl="https://rsshub.proto.by//telegram/channel/qetzal_1up" htmlUrl="https://t.me/s/qetzal_1up"/>
       <outline type="rss" text="The Scope: технологии и люди" title="The Scope: технологии и люди" xmlUrl="https://rsshub.proto.by//substack/subscribe/thescope" htmlUrl="https://thescope.substack.com/"/>
       <outline type="rss" text="Ivan Chernyakov - YouTube" title="Ivan Chernyakov - YouTube" xmlUrl="https://rsshub.proto.by//youtube/user/@icherniakov" htmlUrl="https://www.youtube.com/channel/UCaukwNoTfV9mfVMgoQQPj7A"/>
+      <outline type="rss" text="Tool Building Ape × Gleb Kalinin" title="Tool Building Ape × Gleb Kalinin" xmlUrl="https://rsshub.proto.by//telegram/channel/toolusing" htmlUrl="https://t.me/toolusing"/>
     </outline>
     <outline text="programming" title="programming">
       <outline type="rss" text="Миша Ларченко - YouTube" title="Миша Ларченко - YouTube" xmlUrl="https://rsshub.proto.by//youtube/user/@larchanka" htmlUrl="https://www.youtube.com/channel/UC7vgoI5o3Eik81K6nwd1_eQ"/>
